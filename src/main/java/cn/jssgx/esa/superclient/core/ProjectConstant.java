@@ -1,4 +1,4 @@
-package com.company.project.core;
+package cn.jssgx.esa.superclient.core;
 
 /**
  * 项目常量

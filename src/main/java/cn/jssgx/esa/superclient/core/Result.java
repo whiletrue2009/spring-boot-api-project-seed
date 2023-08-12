@@ -1,4 +1,4 @@
-package com.company.project.core;
+package cn.jssgx.esa.superclient.core;
 
 import com.alibaba.fastjson.JSON;
 

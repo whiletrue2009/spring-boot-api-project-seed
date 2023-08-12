@@ -1,4 +1,4 @@
-package com.company.project.core;
+package cn.jssgx.esa.superclient.core;
 
 import org.apache.ibatis.exceptions.TooManyResultsException;
 import tk.mybatis.mapper.entity.Condition;
